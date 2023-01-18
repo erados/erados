@@ -29,14 +29,9 @@
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
 |------|---|---|
-|2022.09 - PRESENT|Tracking Simulation|거리정보 기반 위치 추적 알고리즘 구현 및 최적화(고려대 졸업 작품)|
-|2021.12 - 2022.01|Space Camping Club(Messier)|Klaytn 기반의 ERC-721 NFT 제작|
-|2021.10 - 2021.12|The Crypto Bands|Klaytn 기반의 ERC-721 NFT 제작|
-|2020.09 - 2020.12|열받았어요|열전소자를 이용한 자가발전 휴대용 레이저 제작|
-|2020.09 - 2020.12|행복회로|열전소자를 활용한 산불 모니터링 드론의 배터리 효율 향상|
-|2020.03 - 2020.06|소형 야간투시경|적외선 카메라와 RPI Zero, 소형 LCD 를 이용한 소형 야간 투시경 제작|
-|2020.09 - 2020.12|단면 Cubli|kalman filter 를 사용한 단면 Cubli 제작(실패)|
-|2016.02 - 2019.12|Canvas Projects| HTML5 Canvas 를 사용한 다수의 미디어 아트 프로젝트
+|2022.09 - PRESENT|[Tracking Simulation](https://github.com/erados/2022_Tracking_Simulation)|거리정보 기반 위치 추적 알고리즘 구현 및 최적화(고려대 졸업 작품)|
+|2021.12 - 2022.01|[Space Camping Club(Messier)](https://github.com/erados/2021_Messier)|Klaytn 기반의 ERC-721 NFT 제작|
+|2016.02 - 2019.12|[Canvas Projects](https://github.com/erados/MediaArts)| HTML5 Canvas 를 사용한 다수의 미디어 아트 프로젝트
 |2014.03 - 2016.02|GNFLSS|경남외고 학생들을 위한 학생 교류 웹사이트 제작|
 
 ---
