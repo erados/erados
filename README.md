@@ -49,5 +49,5 @@
 ### SQLD(SQL Developer) (2022.04.08)
 ### AWS Certified Cloud Practitioner (2022.11.05)
 ### AWS Certified Solutions Architect - Associate (2023.01.06)
-### OPIC IM3 (2023.03.21)
+### OPIc IM3 (2023.03.21)
 
