@@ -45,8 +45,9 @@
 ###### 2020년 겨울 고려대 전기전자 김중헌 교수 랩실 인턴 | 양자컴퓨팅
 ---
 ### 🔖 Certificate
-### Toeic 945
-### SQLD(SQL Developer)
-### AWS Certified Cloud Practitioner
-### AWS Certified Solutions Architect - Associate
+### Toeic 945 (2020.08.16)
+### SQLD(SQL Developer) (2022.04.08)
+### AWS Certified Cloud Practitioner (2022.11.05)
+### AWS Certified Solutions Architect - Associate (2023.01.06)
+### OPIC IM3 (2023.03.21)
 
