@@ -9,7 +9,8 @@
 ###### | 2013.03 - 2016.02 | 경남외고 26기 영일본어과
 
 ## 🛠 Tech Stack and Tools
-### Tech Stack<br/>
+### Tech Stack
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&style=for-the-badge"/></a>
@@ -19,7 +20,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AWS&logoColor=white&style=for-the-badge"/></a>
-### Tool<br/>
+### Tool
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=c%2B%2B&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/VS Code-217346?style=flat-square&logo=c%2B%2B&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Sentry-purple.svg?style=flat-square&logo=sentry&style=for-the-badge"/></a>
@@ -27,7 +29,8 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white&style=for-the-badge"/></a>
 
-### BOJ<br/>
+### BOJ
+
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=erados)](https://solved.ac/erados)
 [![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=erados&theme=dark)](https://solved.ac/erados)
 ---
@@ -41,10 +44,12 @@
 
 ---
 ### 🏆 Award & Activity
-### Award<br/>
+### Award
+
 ###### 2019 DevKor 2회 해커톤 | 고려대 소프트웨어 개발/연구 학회 DevKor | 장려상
 ###### 학기 최우등상 수상 3회  | 고려대학교 |  표창
-### Activity<br/>
+### Activity
+
 ###### HANDS ( 고려대 HW·SW학회 ) 아두이노 세미나 진행자
 ###### 共學 ( 남명학사 HW·SW 동아리) 1기 회장
 ###### 2020년 겨울 고려대 전기전자 김중헌 교수 랩실 인턴 | 양자컴퓨팅
