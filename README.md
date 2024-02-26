@@ -1,9 +1,6 @@
 ### 💻 Backend Engineer
 ### 🤖 자동화를 좋아하는 백엔드 개발자 송명우 입니다.
 
-## 🖥 Career
-###### | 2020.12 - 2022.06 | 펍스케일 파트너스 | 이커머스 데이터 플랫폼 풀스택 개발자
-
 ## 📖 Education
 ###### | 2016.03 - 2023.02 | 고려대학교 공과대학 전기전자공학부 | B.E. 공학사 
 ###### | 2013.03 - 2016.02 | 경남외고 26기 영일본어과
@@ -37,7 +34,7 @@
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
 |------|---|---|
-|2024.02 - 2024.02|[Ref-Roulette](https://ref-roulette.com)|월드코인 레퍼럴 공유 사이트|
+|2024.02 - 2024.02|[Ref-Roulette](https://github.com/erados/ref-roulette)|월드코인 레퍼럴 공유 사이트|
 |2022.09 - 2022.12|[Tracking Simulation](https://github.com/erados/2022_Tracking_Simulation)|거리정보 기반 위치 추적 알고리즘 구현 및 최적화(고려대 졸업 작품)|
 |2021.12 - 2022.01|[Space Camping Club(Messier)](https://github.com/erados/2021_Messier)|Klaytn 기반의 ERC-721 NFT 제작|
 |2016.02 - 2019.12|[Canvas Projects](https://github.com/erados/MediaArts)| HTML5 Canvas 를 사용한 다수의 미디어 아트 프로젝트
