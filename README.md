@@ -48,7 +48,7 @@
 ###### 학기 최우등상 수상 3회  | 고려대학교 |  표창
 ### Activity
 
-###### Ruby Study Group Korea 운영자 [Youtube](https://www.youtube.com/@myungwoosong/videos) | [Meetup](https://www.meetup.com/rubysgk/)
+###### Ruby Study Group Korea 운영자 [Youtube](https://www.youtube.com/@myungwoosong/videos) | [LinkedIn](https://www.linkedin.com/company/ruby-study-group-korea)
 ###### HANDS ( 고려대 HW·SW학회 ) 아두이노 세미나 진행자
 ###### 共學 ( 남명학사 HW·SW 동아리) 1기 회장
 ###### 2020년 겨울 고려대 전기전자 김중헌 교수 랩실 인턴 | 양자컴퓨팅
