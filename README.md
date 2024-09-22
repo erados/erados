@@ -34,6 +34,7 @@
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
 |------|---|---|
+|2024.09 - 2024.09|[Rulebook](https://rulebook.the-babel.com)|재미있는 투표 커뮤니티|
 |2024.02 - 2024.02|[Ref-Roulette](https://ref-roulette.com/home)|World App 레퍼럴 공유 플랫폼|
 |2022.09 - 2022.12|[Tracking Simulation](https://github.com/erados/2022_Tracking_Simulation)|거리정보 기반 위치 추적 알고리즘 구현 및 최적화(고려대 졸업 작품)|
 |2021.12 - 2022.01|[Space Camping Club(Messier)](https://github.com/erados/2021_Messier)|Klaytn 기반의 ERC-721 NFT 제작|
