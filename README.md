@@ -13,8 +13,8 @@
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
 |------|---|---|
-|2024.11 - |[SafeSpace](https://github.com/erados/SafeSpace)|웹 컨텐츠 필터링 크롬 익스텐션|
-|2024.10 - |[Lastwords](https://lastwords.the-babel.com)|디지털 유서 전달 서비스|
+|2024.11 - 2024.11|[SafeSpace](https://github.com/erados/SafeSpace)|웹 컨텐츠 필터링 크롬 익스텐션|
+|2024.10 - 2024.11|[Lastwords](https://lastwords.the-babel.com)|디지털 유서 전달 서비스|
 |2024.09 - 2024.09|[Rulebook](https://rulebook.the-babel.com)|재미있는 투표 커뮤니티|
 |2024.02 - 2024.05|[Ref-Roulette](https://ref-roulette.com/home)|World App 레퍼럴 공유 플랫폼|
 |2022.09 - 2022.12|[Tracking Simulation](https://github.com/erados/2022_Tracking_Simulation)|거리정보 기반 위치 추적 알고리즘 구현 및 최적화(고려대 졸업 작품)|
