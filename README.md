@@ -23,14 +23,14 @@
 ### 🏆 Award & Activity
 ### Award
 
-###### 2019 DevKor 2회 해커톤 | 고려대 소프트웨어 개발/연구 학회 DevKor | 장려상
-###### 학기 최우등상 수상 3회  | 고려대학교 |  표창
+###### 2019 DevKor 2회 해커톤 | 소프트웨어 개발/연구 학회 DevKor | 장려상
+###### 학기 최우등상 수상 3회
 ### Activity
 
 ###### Ruby Study Group Korea 운영자 [Youtube](https://www.youtube.com/@myungwoosong/videos) | [LinkedIn](https://www.linkedin.com/company/ruby-study-group-korea)
-###### HANDS ( 고려대 HW·SW학회 ) 아두이노 세미나 진행자
+###### HANDS ( 대학교 HW·SW학회 ) 아두이노 세미나 진행자
 ###### 共學 ( 남명학사 HW·SW 동아리) 1기 회장
-###### 2020년 겨울 고려대 전기전자 김중헌 교수 랩실 인턴 | 양자컴퓨팅
+###### 2020년 겨울 김중헌 교수 랩실 인턴 | 양자컴퓨팅
 ---
 ### 🔖 Certificate
 ### TOEIC 945 (2020.08.16)
