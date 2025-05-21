@@ -1,10 +1,6 @@
 ### Solopreneur
 ### 1인 사업을 합니다.
 
-### BOJ
-
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=erados)](https://solved.ac/erados)
-[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=erados&theme=dark)](https://solved.ac/erados)
 ---
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
@@ -33,6 +29,8 @@
 ###### HANDS ( 대학교 HW·SW학회 ) 아두이노 세미나 진행자
 ###### 共學 ( 남명학사 HW·SW 동아리) 1기 회장
 ###### 2020년 겨울 김중헌 교수 랩실 인턴 | 양자컴퓨팅
+###### [온라인 모각공](https://www.munto.kr/detail-club?id=18133) 진행
+###### [1인 사업가 커뮤니티 디스코드](https://discord.gg/Fz3J9gfuMC) 운영
 ---
 ### 🔖 Certificate
 ### TOEIC 945 (2020.08.16)
