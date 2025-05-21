@@ -5,8 +5,8 @@
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
 |------|---|---|
-|2024.12 - |[TuneDo](https://the-babel.com)|캘린더의 내용으로 AI 알람 음악을 만들어주는 알람 앱(개발중)|
-|2024.12 - |[Testory](https://the-babel.com)|신규 안드로이드 앱 배포를 위한 베타 테스터 모집 플랫폼|
+|2025.02 - |[TuneDo](https://the-babel.com)|캘린더의 내용으로 AI 알람 음악을 만들어주는 알람 앱(개발중)|
+|2025.01 - |[Testory](https://the-babel.com)|신규 안드로이드 앱 배포를 위한 베타 테스터 모집 플랫폼|
 |2024.12 - |[ChordMate](https://play.google.com/store/apps/details?id=com.thebabel.chord_mate)|실시간으로 음악의 코드를 감지해 보여주는 앱|
 |2024.10 - |[Lastwords](https://lastwords.the-babel.com)|디지털 유서 전달 서비스|
 |2024.11 - 2024.11|[SafeSpace](https://github.com/erados/SafeSpace)|웹 컨텐츠 필터링 크롬 익스텐션|
@@ -29,7 +29,7 @@
 ###### HANDS ( 대학교 HW·SW학회 ) 아두이노 세미나 진행자
 ###### 共學 ( 남명학사 HW·SW 동아리) 1기 회장
 ###### 2020년 겨울 김중헌 교수 랩실 인턴 | 양자컴퓨팅
-###### [온라인 모각공](https://www.munto.kr/detail-club?id=18133) 진행
+###### 1년간 매일 저녁 [온라인 모각공](https://www.munto.kr/detail-club?id=18133) 진행
 ###### [1인 사업가 커뮤니티 디스코드](https://discord.gg/Fz3J9gfuMC) 운영
 ---
 ### 🔖 Certificate
