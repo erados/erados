@@ -2,7 +2,7 @@
 ### 1인 사업을 합니다.
 
 ---
-## 🧑🏻‍💻 Project
+## Project
 |Period|Title/Company|Description|
 |------|---|---|
 |2025.02 - |[TuneDo](https://the-babel.com)|캘린더의 내용으로 AI 알람 음악을 만들어주는 알람 앱(개발중)|
@@ -18,11 +18,6 @@
 |2014.03 - 2016.02|GNFLSS|경남외고 학생들을 위한 학생 교류 웹사이트 제작|
 
 ---
-### 🏆 Award & Activity
-### Award
-
-###### 2019 DevKor 2회 해커톤 | 소프트웨어 개발/연구 학회 DevKor | 장려상
-###### 학기 최우등상 수상 3회
 ### Activity
 
 ###### Ruby Study Group Korea 운영자 [Youtube](https://www.youtube.com/@myungwoosong/videos) | [LinkedIn](https://www.linkedin.com/company/ruby-study-group-korea)
@@ -32,7 +27,7 @@
 ###### 1년간 매일 저녁 [온라인 모각공](https://www.munto.kr/detail-club?id=18133) 진행
 ###### [1인 사업가 커뮤니티 디스코드](https://discord.gg/Fz3J9gfuMC) 운영
 ---
-### 🔖 Certificate
+### Certificate
 ### TOEIC 945 (2020.08.16)
 ### SQLD(SQL Developer) (2022.04.08)
 ### AWS Certified Cloud Practitioner (2022.11.05)
