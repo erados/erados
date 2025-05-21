@@ -18,7 +18,7 @@
 |2014.03 - 2016.02|GNFLSS|경남외고 학생들을 위한 학생 교류 웹사이트 제작|
 
 ---
-### Activity
+## Activity
 
 ###### Ruby Study Group Korea 운영자 [Youtube](https://www.youtube.com/@myungwoosong/videos) | [LinkedIn](https://www.linkedin.com/company/ruby-study-group-korea)
 ###### HANDS ( 대학교 HW·SW학회 ) 아두이노 세미나 진행자
@@ -27,7 +27,7 @@
 ###### 1년간 매일 저녁 [온라인 모각공](https://www.munto.kr/detail-club?id=18133) 진행
 ###### [1인 사업가 커뮤니티 디스코드](https://discord.gg/Fz3J9gfuMC) 운영
 ---
-### Certificate
+## Certificate
 ### TOEIC 945 (2020.08.16)
 ### SQLD(SQL Developer) (2022.04.08)
 ### AWS Certified Cloud Practitioner (2022.11.05)
