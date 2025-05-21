@@ -1,5 +1,5 @@
-### 💻 Backend Engineer
-### 🤖 자동화를 좋아하는 백엔드 개발자 송명우 입니다.
+### Solopreneur
+### 1인 사업을 합니다.
 
 ### BOJ
 
