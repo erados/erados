@@ -9,7 +9,9 @@
 ## 🧑🏻‍💻 Project
 |Period|Title/Company|Description|
 |------|---|---|
-|2024.12 - |[ChordMate](https://the-babel.com)|실시간으로 음악의 코드를 감지해 보여주는 앱(심사중)|
+|2024.12 - |[TuneDo](https://the-babel.com)|캘린더의 내용으로 AI 알람 음악을 만들어주는 알람 앱(개발중)|
+|2024.12 - |[Testory](https://the-babel.com)|신규 안드로이드 앱 배포를 위한 베타 테스터 모집 플랫폼|
+|2024.12 - |[ChordMate](https://play.google.com/store/apps/details?id=com.thebabel.chord_mate)|실시간으로 음악의 코드를 감지해 보여주는 앱|
 |2024.10 - |[Lastwords](https://lastwords.the-babel.com)|디지털 유서 전달 서비스|
 |2024.11 - 2024.11|[SafeSpace](https://github.com/erados/SafeSpace)|웹 컨텐츠 필터링 크롬 익스텐션|
 |2024.09 - 2024.09|[Rulebook](https://rulebook.the-babel.com)|재미있는 투표 커뮤니티|
